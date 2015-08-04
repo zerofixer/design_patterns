@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Singleton", "Singleton\Singleton.vcxproj", "{0C9A3AEA-87E8-44B4-94BB-61E750B9D853}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{3C29AF61-EA32-4724-B0F5-4B322B779D19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{43A6DBFE-29AE-42DD-904C-514AA8381172}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{45224F0E-20B2-4A99-AD4B-770461978A33}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Visitor", "Visitor\Visitor.vcxproj", "{D96BA627-9311-4EBE-8FE9-94D4366C3B4E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adapter", "Adapter\Adapter.vcxproj", "{6072F97A-9814-4924-815F-ACFCF41305B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C9A3AEA-87E8-44B4-94BB-61E750B9D853}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0C9A3AEA-87E8-44B4-94BB-61E750B9D853}.Debug|Win32.Build.0 = Debug|Win32
+		{0C9A3AEA-87E8-44B4-94BB-61E750B9D853}.Release|Win32.ActiveCfg = Release|Win32
+		{0C9A3AEA-87E8-44B4-94BB-61E750B9D853}.Release|Win32.Build.0 = Release|Win32
+		{D96BA627-9311-4EBE-8FE9-94D4366C3B4E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D96BA627-9311-4EBE-8FE9-94D4366C3B4E}.Debug|Win32.Build.0 = Debug|Win32
+		{D96BA627-9311-4EBE-8FE9-94D4366C3B4E}.Release|Win32.ActiveCfg = Release|Win32
+		{D96BA627-9311-4EBE-8FE9-94D4366C3B4E}.Release|Win32.Build.0 = Release|Win32
+		{6072F97A-9814-4924-815F-ACFCF41305B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6072F97A-9814-4924-815F-ACFCF41305B4}.Debug|Win32.Build.0 = Debug|Win32
+		{6072F97A-9814-4924-815F-ACFCF41305B4}.Release|Win32.ActiveCfg = Release|Win32
+		{6072F97A-9814-4924-815F-ACFCF41305B4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0C9A3AEA-87E8-44B4-94BB-61E750B9D853} = {3C29AF61-EA32-4724-B0F5-4B322B779D19}
+		{D96BA627-9311-4EBE-8FE9-94D4366C3B4E} = {45224F0E-20B2-4A99-AD4B-770461978A33}
+		{6072F97A-9814-4924-815F-ACFCF41305B4} = {43A6DBFE-29AE-42DD-904C-514AA8381172}
+	EndGlobalSection
+EndGlobal
